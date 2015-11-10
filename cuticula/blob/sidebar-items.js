@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Blob","Backend-agnostic data container."]],"trait":[["Numeric","Provides the trait for a valid [Blob] input [blob]: ../blob/index.html"]]});
